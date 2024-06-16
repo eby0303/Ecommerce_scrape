@@ -49,13 +49,14 @@ This project is a web application built with Streamlit that allows users to scra
    ```
 
 2. **Enter the product name and the wanted list items for Amazon and Flipkart.**
-3. **Click on "Scrape Data" to initiate scraping.**
-4. **View the scraped data displayed in a side-by-side table.**
-5. **Optionally, click on "Download CSV" to download scraped data as CSV files.**
-
 ![Screenshot 2024-06-16 233958](https://github.com/eby0303/Ecommerce_scrape/assets/86768805/e175fb59-21be-4582-b61c-8530da6eefc2)
+3. ** Choose the Product Name and Price and paste it on the text box
 ![image](https://github.com/eby0303/Ecommerce_scrape/assets/86768805/07a0f7bc-9a6d-4422-a327-ccba6431e3be)
+4. **Click on "Scrape Data" to initiate scraping.**
+5. **View the scraped data displayed in a side-by-side table.**
+6. **Optionally, click on "Download CSV" to download scraped data as CSV files.**
 ![Screenshot 2024-06-16 234125](https://github.com/eby0303/Ecommerce_scrape/assets/86768805/0f3ce597-e1bc-4940-8292-42b93e0b3caf)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or issues, please open an issue or create a pull request.
